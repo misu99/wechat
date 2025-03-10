@@ -8,8 +8,8 @@ import (
 	"os"
 	"path"
 
-	"github.com/silenceper/wechat/v2/officialaccount/context"
-	"github.com/silenceper/wechat/v2/util"
+	"github.com/misu99/wechat/v2/officialaccount/context"
+	"github.com/misu99/wechat/v2/util"
 )
 
 const (

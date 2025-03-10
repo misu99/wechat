@@ -20,8 +20,8 @@
 package virtualpayment
 
 import (
-	"github.com/silenceper/wechat/v2/miniprogram/context"
-	"github.com/silenceper/wechat/v2/util"
+	"github.com/misu99/wechat/v2/miniprogram/context"
+	"github.com/misu99/wechat/v2/util"
 )
 
 // VirtualPayment mini program virtual payment

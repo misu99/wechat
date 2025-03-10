@@ -1,7 +1,7 @@
 package externalcontact
 
 import (
-	"github.com/silenceper/wechat/v2/work/context"
+	"github.com/misu99/wechat/v2/work/context"
 )
 
 // Client 外部联系接口实例

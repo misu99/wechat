@@ -20,8 +20,8 @@
 package minidrama
 
 import (
-	"github.com/silenceper/wechat/v2/miniprogram/context"
-	"github.com/silenceper/wechat/v2/util"
+	"github.com/misu99/wechat/v2/miniprogram/context"
+	"github.com/misu99/wechat/v2/util"
 )
 
 // MiniDrama mini program entertainment live broadcast related

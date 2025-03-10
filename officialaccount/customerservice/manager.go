@@ -3,8 +3,8 @@ package customerservice
 import (
 	"fmt"
 
-	"github.com/silenceper/wechat/v2/officialaccount/context"
-	"github.com/silenceper/wechat/v2/util"
+	"github.com/misu99/wechat/v2/officialaccount/context"
+	"github.com/misu99/wechat/v2/util"
 )
 
 // TypingStatus 输入状态类型
